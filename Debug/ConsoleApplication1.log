@@ -1,0 +1,6 @@
+﻿D:\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  network.cpp
+D:\Work\Convelution\ConsoleApplication1\network.cpp(75): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Work\Convelution\ConsoleApplication1\network.cpp(248): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Work\Convelution\ConsoleApplication1\network.cpp(563): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\Work\Convelution\Debug\ConveluionNetworks.exe
